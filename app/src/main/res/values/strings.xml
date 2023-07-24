@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhackAMole</string>
+    <string name="start">Start</string>
+    <string name="whack_a_mole">Wack a mole</string>
+    <string name="level">Choose a level</string>
+    <string name="score">Score</string>
+    <string name="lives">Lives</string>
+    <string name="end">Game Over!</string>
+    <string name="enter_nickname">Enter nickname</string>
+    <string name="ranking">Ranking</string>
+    <string name="done">Done!</string>
+</resources>
